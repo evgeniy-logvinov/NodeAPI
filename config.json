@@ -4,7 +4,7 @@
         "tokenLife" : 3600
     },
     "mongoose": {
-        "uri": "mongodb://localhost/apiDB"
+        "uri": "mongodb://user:user@ds239127.mlab.com:39127/resful-api"
     },
     "default": {
         "api": {
